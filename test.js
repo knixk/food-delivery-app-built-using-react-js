@@ -34,4 +34,4 @@ myFunction();
 
 myFunction2();
 
-let mytime = setTimeout(() => {}, 1000).then(() => {});
+let mytime = setTimeout(() => {}, 1000);
